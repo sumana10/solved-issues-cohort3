@@ -1,0 +1,10 @@
+@import "tailwindcss";
+@theme {
+  --font-primary: "Poppins", "serif";
+  --breakpoint-3xl: 1920px;
+  --color-bg-purple-500: #5046e4;
+  --color-primary: #888;
+  --color-secondary: #fff;
+  /* ... */
+}
+
